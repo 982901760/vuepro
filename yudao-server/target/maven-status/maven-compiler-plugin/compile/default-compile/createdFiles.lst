@@ -1,0 +1,8 @@
+cn\iocoder\yudao\module\shop\controller\app\vo\AppShopOrderCreateRespVO$AppShopOrderCreateRespVOBuilder.class
+cn\iocoder\yudao\server\framework\ui\core\AdminUiController.class
+cn\iocoder\yudao\module\shop\controller\app\vo\AppShopOrderCreateRespVO.class
+cn\iocoder\yudao\server\YudaoServerApplication.class
+cn\iocoder\yudao\module\shop\controller\app\AppShopOrderController.class
+cn\iocoder\yudao\server\framework\ui\config\AdminUiConfiguration$1.class
+cn\iocoder\yudao\server\framework\ui\config\AdminUiConfiguration.class
+cn\iocoder\yudao\server\controller\DefaultController.class

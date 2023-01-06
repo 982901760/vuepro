@@ -1,0 +1,14 @@
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\src\main\java\cn\iocoder\yudao\framework\datapermission\core\rule\dept\DeptDataPermissionRule.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\src\main\java\cn\iocoder\yudao\framework\datapermission\core\db\DataPermissionDatabaseInterceptor.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\src\main\java\cn\iocoder\yudao\framework\datapermission\core\aop\DataPermissionContextHolder.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\src\main\java\cn\iocoder\yudao\framework\datapermission\core\rule\dept\package-info.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\src\main\java\cn\iocoder\yudao\framework\datapermission\core\annotation\DataPermission.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\src\main\java\cn\iocoder\yudao\framework\datapermission\core\rule\dept\DeptDataPermissionRuleCustomizer.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\src\main\java\cn\iocoder\yudao\framework\datapermission\core\rule\DataPermissionRule.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\src\main\java\cn\iocoder\yudao\framework\datapermission\core\rule\DataPermissionRuleFactoryImpl.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\src\main\java\cn\iocoder\yudao\framework\datapermission\config\YudaoDeptDataPermissionAutoConfiguration.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\src\main\java\cn\iocoder\yudao\framework\datapermission\core\rule\DataPermissionRuleFactory.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\src\main\java\cn\iocoder\yudao\framework\datapermission\config\YudaoDataPermissionAutoConfiguration.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\src\main\java\cn\iocoder\yudao\framework\datapermission\core\aop\DataPermissionAnnotationInterceptor.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\src\main\java\cn\iocoder\yudao\framework\datapermission\core\aop\DataPermissionAnnotationAdvisor.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\src\main\java\cn\iocoder\yudao\framework\datapermission\package-info.java

@@ -1,0 +1,15 @@
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\core\service\SecurityFrameworkService.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\core\handler\AuthenticationEntryPointImpl.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\core\util\SecurityFrameworkUtils.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\package-info.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\config\YudaoSecurityAutoConfiguration.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\core\context\TransmittableThreadLocalSecurityContextHolderStrategy.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\config\AuthorizeRequestsCustomizer.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\config\SecurityProperties.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\core\aop\PreAuthenticatedAspect.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\core\LoginUser.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\config\YudaoWebSecurityConfigurerAdapter.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\core\handler\AccessDeniedHandlerImpl.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\core\filter\TokenAuthenticationFilter.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\core\annotations\PreAuthenticated.java
+F:\vuepro\yudao-framework\yudao-spring-boot-starter-security\src\main\java\cn\iocoder\yudao\framework\security\core\service\SecurityFrameworkServiceImpl.java

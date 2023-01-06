@@ -1,0 +1,17 @@
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\framework\core\handler\AccessDeniedHandlerImpl.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\framework\core\util\ServletUtils.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\SSODemoApplication.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\client\dto\CommonResult.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\client\dto\oauth2\OAuth2CheckTokenRespDTO.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\client\UserClient.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\framework\core\LoginUser.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\framework\config\SecurityConfiguration.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\framework\core\util\SecurityUtils.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\controller\UserController.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\client\OAuth2Client.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\client\dto\oauth2\OAuth2AccessTokenRespDTO.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\framework\core\filter\TokenAuthenticationFilter.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\framework\core\handler\AuthenticationEntryPointImpl.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\controller\AuthController.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\client\dto\user\UserUpdateReqDTO.java
+F:\vuepro\yudao-example\yudao-sso-demo-by-code\src\main\java\cn\iocoder\yudao\ssodemo\client\dto\user\UserInfoRespDTO.java
