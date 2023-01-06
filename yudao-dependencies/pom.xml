@@ -47,7 +47,7 @@
         <easyexcel.verion>3.1.4</easyexcel.verion>
         <velocity.version>2.3</velocity.version>
         <screw.version>1.0.5</screw.version>
-        <fastjson.version>1.2.83</fastjson.version>
+        <fastjson.version>2.0.22</fastjson.version>
         <guava.version>31.1-jre</guava.version>
         <guice.version>5.1.0</guice.version>
         <transmittable-thread-local.version>2.14.2</transmittable-thread-local.version>
