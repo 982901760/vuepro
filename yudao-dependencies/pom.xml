@@ -58,7 +58,7 @@
         <netty-all.version>4.1.86.Final</netty-all.version>
         <ip2region.version>2.6.6</ip2region.version>
         <!-- 三方云服务相关 -->
-        <okio.version>3.0.0</okio.version>
+        <okio.version>3.2.0</okio.version>
         <okhttp3.version>4.10.0</okhttp3.version>
         <minio.version>8.4.6</minio.version>
         <aliyun-java-sdk-core.version>4.6.3</aliyun-java-sdk-core.version>
