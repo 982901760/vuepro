@@ -28,7 +28,7 @@
         <dynamic-datasource.version>3.6.1</dynamic-datasource.version>
         <redisson.version>3.19.1</redisson.version>
         <!-- 服务保障相关 -->
-        <lock4j.version>2.2.3</lock4j.version>
+        <lock4j.version>2.2.4</lock4j.version>
         <resilience4j.version>1.7.1</resilience4j.version>
         <!-- 监控相关 -->
         <skywalking.version>8.13.0</skywalking.version>
